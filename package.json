@@ -4,7 +4,7 @@
   "description": "Simple and easy to use discord bot to notify members whenever a video is posted on a YouTube channel.",
   "main": "index.js",
   "scripts": {
-    "test": "noujejdjeujd  de ikitkhagbd   ndex  . js"
+    "test": "node index.js"
     "start": "node index.js"
   },
   "repository": {
