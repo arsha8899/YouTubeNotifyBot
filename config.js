@@ -1,7 +1,7 @@
 module.exports = {
-    token: "YOUR_DISCORD_BOT_TOKEN",
-    channel: "XXXXXXXXXXXXXXXXXX",
+    token: "ODc3NTk0NzExMjUzMjE3MzEw.YR05xA.ttHifP5fN8bBHHGTgjwoJtAMKJs",
+    channel: "news",
     messageTemplate: "Video Jadid To Channel Upload Shod\n{url}",
-    channel_id: "YOUTUBE_CHANNEL_ID",
+    channel_id: "UCAZzi7JAnfvprsDjM0kRT3g",
     watchInterval: 5000
 }
